@@ -1,0 +1,17 @@
+D:\WT2shravan\FileHandelingApplication\bin\Debug\net6.0-windows\FileHandelingApplication.exe
+D:\WT2shravan\FileHandelingApplication\bin\Debug\net6.0-windows\FileHandelingApplication.deps.json
+D:\WT2shravan\FileHandelingApplication\bin\Debug\net6.0-windows\FileHandelingApplication.runtimeconfig.json
+D:\WT2shravan\FileHandelingApplication\bin\Debug\net6.0-windows\FileHandelingApplication.dll
+D:\WT2shravan\FileHandelingApplication\bin\Debug\net6.0-windows\FileHandelingApplication.pdb
+D:\WT2shravan\FileHandelingApplication\obj\Debug\net6.0-windows\FileHandelingApplication.csproj.AssemblyReference.cache
+D:\WT2shravan\FileHandelingApplication\obj\Debug\net6.0-windows\FileHandelingApplication.Form1.resources
+D:\WT2shravan\FileHandelingApplication\obj\Debug\net6.0-windows\FileHandelingApplication.csproj.GenerateResource.cache
+D:\WT2shravan\FileHandelingApplication\obj\Debug\net6.0-windows\FileHandelingApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\WT2shravan\FileHandelingApplication\obj\Debug\net6.0-windows\FileHandelingApplication.AssemblyInfoInputs.cache
+D:\WT2shravan\FileHandelingApplication\obj\Debug\net6.0-windows\FileHandelingApplication.AssemblyInfo.cs
+D:\WT2shravan\FileHandelingApplication\obj\Debug\net6.0-windows\FileHandelingApplication.csproj.CoreCompileInputs.cache
+D:\WT2shravan\FileHandelingApplication\obj\Debug\net6.0-windows\FileHandelingApplication.dll
+D:\WT2shravan\FileHandelingApplication\obj\Debug\net6.0-windows\refint\FileHandelingApplication.dll
+D:\WT2shravan\FileHandelingApplication\obj\Debug\net6.0-windows\FileHandelingApplication.pdb
+D:\WT2shravan\FileHandelingApplication\obj\Debug\net6.0-windows\FileHandelingApplication.genruntimeconfig.cache
+D:\WT2shravan\FileHandelingApplication\obj\Debug\net6.0-windows\ref\FileHandelingApplication.dll
